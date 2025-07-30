@@ -1,7 +1,7 @@
 import pandas as pd
 
-movie_df = pd.read_csv(r'D:\PythonForAIML\DataSets\movies.csv')
-rating_df = pd.read_csv(r'D:\PythonForAIML\DataSets\ratings.csv')
+movie_df = pd.read_csv(r'DataSets/movies.csv')
+rating_df = pd.read_csv(r'DataSets/ratings.csv')
 
 # print(movie_df.head())
 # print(rating_df.head())
